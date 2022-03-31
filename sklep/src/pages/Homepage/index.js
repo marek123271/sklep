@@ -1,9 +1,12 @@
 import React from 'react';
-import Drirectory from '../../components/Directory';
+import Directory from '../../components/Directory';
+import './styles.css';
+
+
 const Homepage = props => {
     return(
-        <section>
-            <Drirectory />
+        <section className="homepage">
+            <Directory />
         </section>
         );
 };

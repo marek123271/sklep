@@ -5,11 +5,15 @@ import HomePage from './pages/Homepage'
 
 
 
+
 function App() {
   return (
     <div className="App">
-     <Header />
+       <Header />
+      <div className="main">
+    
       <HomePage />
+      </div>
     </div>
   );
 }

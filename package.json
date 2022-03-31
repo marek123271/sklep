@@ -3,6 +3,8 @@
     "node-sass": "^7.0.1"
   },
   "devDependencies": {
-    "css-loader": "^6.7.1"
+    "css-loader": "^6.7.1",
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1"
   }
 }
