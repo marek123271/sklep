@@ -1,3 +1,6 @@
+import React from "react";
+import './default.css';
+
 
 
 function App() {
